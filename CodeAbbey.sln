@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN5MinimumOfThree", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN6Rounding", "ProblemN6Rounding\ProblemN6Rounding.csproj", "{CBCAE7E7-7F20-42B6-914C-243C5B8F6278}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN7FahrenheitToCelsius", "ProblemN7FahrenheitToCelsius\ProblemN7FahrenheitToCelsius.csproj", "{A8374040-7F35-4198-84AD-1B853EBC9F70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN11SumOfDigits", "ProblemN11SumOfDigits\ProblemN11SumOfDigits.csproj", "{0A4AF315-7777-4B27-956A-6CBBFACE0E7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{CBCAE7E7-7F20-42B6-914C-243C5B8F6278}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBCAE7E7-7F20-42B6-914C-243C5B8F6278}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBCAE7E7-7F20-42B6-914C-243C5B8F6278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8374040-7F35-4198-84AD-1B853EBC9F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8374040-7F35-4198-84AD-1B853EBC9F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8374040-7F35-4198-84AD-1B853EBC9F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8374040-7F35-4198-84AD-1B853EBC9F70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A4AF315-7777-4B27-956A-6CBBFACE0E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A4AF315-7777-4B27-956A-6CBBFACE0E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A4AF315-7777-4B27-956A-6CBBFACE0E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A4AF315-7777-4B27-956A-6CBBFACE0E7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
