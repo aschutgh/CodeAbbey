@@ -7,7 +7,7 @@ namespace ProblemN4MinimumOfTwo
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter number os pairs to compare: ");
+            Console.Write("Enter number of pairs to compare: ");
             int nofp = int.Parse(Console.ReadLine());
             List<string> ptoc = new List<string>();
             for (int i = 0; i < nofp; i++)
