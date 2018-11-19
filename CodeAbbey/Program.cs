@@ -6,7 +6,8 @@ namespace CodeAbbey
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string[] inputs = Console.ReadLine().Split(" ");
+            Console.WriteLine(int.Parse(inputs[0]) + int.Parse(inputs[1]));
         }
     }
 }
