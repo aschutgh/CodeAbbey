@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN2SumInLoop", "Probl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN3SumsInLoop", "ProblemN3SumsInLoop\ProblemN3SumsInLoop.csproj", "{8E9128D0-A38C-4302-B01F-80A97D36214B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN4MinimumOfTwo", "ProblemN4MinimumOfTwo\ProblemN4MinimumOfTwo.csproj", "{764D0751-7473-439B-901F-5D35A79F612A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8E9128D0-A38C-4302-B01F-80A97D36214B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E9128D0-A38C-4302-B01F-80A97D36214B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E9128D0-A38C-4302-B01F-80A97D36214B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{764D0751-7473-439B-901F-5D35A79F612A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{764D0751-7473-439B-901F-5D35A79F612A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{764D0751-7473-439B-901F-5D35A79F612A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{764D0751-7473-439B-901F-5D35A79F612A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
