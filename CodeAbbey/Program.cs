@@ -1,5 +1,8 @@
 ﻿using System;
 
+// FIXME: Add problem description to projects 1 to 6
+
+
 namespace CodeAbbey
 {
     class Program

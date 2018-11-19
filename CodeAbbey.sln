@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN4MinimumOfTwo", "Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN5MinimumOfThree", "ProblemN5MinimumOfThree\ProblemN5MinimumOfThree.csproj", "{0B8EDF4F-DF6E-4364-944D-5B4F404001DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN6Rounding", "ProblemN6Rounding\ProblemN6Rounding.csproj", "{CBCAE7E7-7F20-42B6-914C-243C5B8F6278}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{0B8EDF4F-DF6E-4364-944D-5B4F404001DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B8EDF4F-DF6E-4364-944D-5B4F404001DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B8EDF4F-DF6E-4364-944D-5B4F404001DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBCAE7E7-7F20-42B6-914C-243C5B8F6278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBCAE7E7-7F20-42B6-914C-243C5B8F6278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBCAE7E7-7F20-42B6-914C-243C5B8F6278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBCAE7E7-7F20-42B6-914C-243C5B8F6278}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
