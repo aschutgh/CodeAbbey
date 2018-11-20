@@ -3,23 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeAbbey", "CodeAbbey\CodeAbbey.csproj", "{8BE2E631-4497-454B-B9AE-F2ADED729576}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeAbbey", "CodeAbbey\CodeAbbey.csproj", "{8BE2E631-4497-454B-B9AE-F2ADED729576}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN2SumInLoop", "ProblemN2SumInLoop\ProblemN2SumInLoop.csproj", "{B21D5B43-71B7-4BEA-9927-0BCB71B58CF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemN2SumInLoop", "ProblemN2SumInLoop\ProblemN2SumInLoop.csproj", "{B21D5B43-71B7-4BEA-9927-0BCB71B58CF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN3SumsInLoop", "ProblemN3SumsInLoop\ProblemN3SumsInLoop.csproj", "{8E9128D0-A38C-4302-B01F-80A97D36214B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemN3SumsInLoop", "ProblemN3SumsInLoop\ProblemN3SumsInLoop.csproj", "{8E9128D0-A38C-4302-B01F-80A97D36214B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN4MinimumOfTwo", "ProblemN4MinimumOfTwo\ProblemN4MinimumOfTwo.csproj", "{764D0751-7473-439B-901F-5D35A79F612A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemN4MinimumOfTwo", "ProblemN4MinimumOfTwo\ProblemN4MinimumOfTwo.csproj", "{764D0751-7473-439B-901F-5D35A79F612A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN5MinimumOfThree", "ProblemN5MinimumOfThree\ProblemN5MinimumOfThree.csproj", "{0B8EDF4F-DF6E-4364-944D-5B4F404001DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemN5MinimumOfThree", "ProblemN5MinimumOfThree\ProblemN5MinimumOfThree.csproj", "{0B8EDF4F-DF6E-4364-944D-5B4F404001DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN6Rounding", "ProblemN6Rounding\ProblemN6Rounding.csproj", "{CBCAE7E7-7F20-42B6-914C-243C5B8F6278}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemN6Rounding", "ProblemN6Rounding\ProblemN6Rounding.csproj", "{CBCAE7E7-7F20-42B6-914C-243C5B8F6278}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN7FahrenheitToCelsius", "ProblemN7FahrenheitToCelsius\ProblemN7FahrenheitToCelsius.csproj", "{A8374040-7F35-4198-84AD-1B853EBC9F70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemN7FahrenheitToCelsius", "ProblemN7FahrenheitToCelsius\ProblemN7FahrenheitToCelsius.csproj", "{A8374040-7F35-4198-84AD-1B853EBC9F70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN11SumOfDigits", "ProblemN11SumOfDigits\ProblemN11SumOfDigits.csproj", "{0A4AF315-7777-4B27-956A-6CBBFACE0E7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemN11SumOfDigits", "ProblemN11SumOfDigits\ProblemN11SumOfDigits.csproj", "{0A4AF315-7777-4B27-956A-6CBBFACE0E7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN12ModuloAndTimeDifference", "ProblemN12ModuloAndTimeDifference\ProblemN12ModuloAndTimeDifference.csproj", "{EC3FCE5D-6601-4828-B219-9371AE6353BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemN12ModuloAndTimeDifference", "ProblemN12ModuloAndTimeDifference\ProblemN12ModuloAndTimeDifference.csproj", "{EC3FCE5D-6601-4828-B219-9371AE6353BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN13WeightedSumOfDigits", "ProblemN13WeightedSumOfDigits\ProblemN13WeightedSumOfDigits.csproj", "{7E919F98-2357-4D20-ADFE-6D4D8DDF81B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{EC3FCE5D-6601-4828-B219-9371AE6353BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC3FCE5D-6601-4828-B219-9371AE6353BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC3FCE5D-6601-4828-B219-9371AE6353BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E919F98-2357-4D20-ADFE-6D4D8DDF81B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E919F98-2357-4D20-ADFE-6D4D8DDF81B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E919F98-2357-4D20-ADFE-6D4D8DDF81B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E919F98-2357-4D20-ADFE-6D4D8DDF81B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
