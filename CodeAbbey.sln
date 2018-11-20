@@ -23,6 +23,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemN12ModuloAndTimeDiff
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN13WeightedSumOfDigits", "ProblemN13WeightedSumOfDigits\ProblemN13WeightedSumOfDigits.csproj", "{7E919F98-2357-4D20-ADFE-6D4D8DDF81B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN14ModularCalculator", "ProblemN14ModularCalculator\ProblemN14ModularCalculator.csproj", "{0F67CDF8-4F2D-4F51-BE3A-3307F63D68CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{7E919F98-2357-4D20-ADFE-6D4D8DDF81B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E919F98-2357-4D20-ADFE-6D4D8DDF81B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E919F98-2357-4D20-ADFE-6D4D8DDF81B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F67CDF8-4F2D-4F51-BE3A-3307F63D68CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F67CDF8-4F2D-4F51-BE3A-3307F63D68CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F67CDF8-4F2D-4F51-BE3A-3307F63D68CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F67CDF8-4F2D-4F51-BE3A-3307F63D68CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
