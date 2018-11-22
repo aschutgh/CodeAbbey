@@ -21,11 +21,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemN11SumOfDigits", "Pr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemN12ModuloAndTimeDifference", "ProblemN12ModuloAndTimeDifference\ProblemN12ModuloAndTimeDifference.csproj", "{EC3FCE5D-6601-4828-B219-9371AE6353BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN13WeightedSumOfDigits", "ProblemN13WeightedSumOfDigits\ProblemN13WeightedSumOfDigits.csproj", "{7E919F98-2357-4D20-ADFE-6D4D8DDF81B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemN13WeightedSumOfDigits", "ProblemN13WeightedSumOfDigits\ProblemN13WeightedSumOfDigits.csproj", "{7E919F98-2357-4D20-ADFE-6D4D8DDF81B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN14ModularCalculator", "ProblemN14ModularCalculator\ProblemN14ModularCalculator.csproj", "{0F67CDF8-4F2D-4F51-BE3A-3307F63D68CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemN14ModularCalculator", "ProblemN14ModularCalculator\ProblemN14ModularCalculator.csproj", "{0F67CDF8-4F2D-4F51-BE3A-3307F63D68CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN15MaximumOfArray", "ProblemN15MaximumOfArray\ProblemN15MaximumOfArray.csproj", "{91BFE4A4-DBE7-4B08-83DC-A964317343C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemN15MaximumOfArray", "ProblemN15MaximumOfArray\ProblemN15MaximumOfArray.csproj", "{91BFE4A4-DBE7-4B08-83DC-A964317343C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN16AverageOfAnArray", "ProblemN16AverageOfAnArray\ProblemN16AverageOfAnArray.csproj", "{66C4E45C-3477-4A83-87DA-183913B48991}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{91BFE4A4-DBE7-4B08-83DC-A964317343C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91BFE4A4-DBE7-4B08-83DC-A964317343C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91BFE4A4-DBE7-4B08-83DC-A964317343C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66C4E45C-3477-4A83-87DA-183913B48991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66C4E45C-3477-4A83-87DA-183913B48991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66C4E45C-3477-4A83-87DA-183913B48991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66C4E45C-3477-4A83-87DA-183913B48991}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
