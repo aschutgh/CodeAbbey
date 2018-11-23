@@ -27,9 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemN14ModularCalculator
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemN15MaximumOfArray", "ProblemN15MaximumOfArray\ProblemN15MaximumOfArray.csproj", "{91BFE4A4-DBE7-4B08-83DC-A964317343C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN16AverageOfAnArray", "ProblemN16AverageOfAnArray\ProblemN16AverageOfAnArray.csproj", "{66C4E45C-3477-4A83-87DA-183913B48991}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemN16AverageOfAnArray", "ProblemN16AverageOfAnArray\ProblemN16AverageOfAnArray.csproj", "{66C4E45C-3477-4A83-87DA-183913B48991}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN17ArrayChecksum", "ProblemN17ArrayChecksum\ProblemN17ArrayChecksum.csproj", "{99A2C579-380A-46A1-88BB-B9FEFE12A366}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemN17ArrayChecksum", "ProblemN17ArrayChecksum\ProblemN17ArrayChecksum.csproj", "{99A2C579-380A-46A1-88BB-B9FEFE12A366}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN20VowelCount", "ProblemN20VowelCount\ProblemN20VowelCount.csproj", "{8B93D8EF-EBBA-4EE0-88E4-B1CECF2B2273}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{99A2C579-380A-46A1-88BB-B9FEFE12A366}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99A2C579-380A-46A1-88BB-B9FEFE12A366}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99A2C579-380A-46A1-88BB-B9FEFE12A366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B93D8EF-EBBA-4EE0-88E4-B1CECF2B2273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B93D8EF-EBBA-4EE0-88E4-B1CECF2B2273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B93D8EF-EBBA-4EE0-88E4-B1CECF2B2273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B93D8EF-EBBA-4EE0-88E4-B1CECF2B2273}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
