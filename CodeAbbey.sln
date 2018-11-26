@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemN16AverageOfAnArray"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemN17ArrayChecksum", "ProblemN17ArrayChecksum\ProblemN17ArrayChecksum.csproj", "{99A2C579-380A-46A1-88BB-B9FEFE12A366}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN20VowelCount", "ProblemN20VowelCount\ProblemN20VowelCount.csproj", "{8B93D8EF-EBBA-4EE0-88E4-B1CECF2B2273}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemN20VowelCount", "ProblemN20VowelCount\ProblemN20VowelCount.csproj", "{8B93D8EF-EBBA-4EE0-88E4-B1CECF2B2273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN21ArrayCounters", "ProblemN21ArrayCounters\ProblemN21ArrayCounters.csproj", "{E7488A50-5D22-4C2A-B947-2D7975F98887}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{8B93D8EF-EBBA-4EE0-88E4-B1CECF2B2273}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B93D8EF-EBBA-4EE0-88E4-B1CECF2B2273}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B93D8EF-EBBA-4EE0-88E4-B1CECF2B2273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7488A50-5D22-4C2A-B947-2D7975F98887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7488A50-5D22-4C2A-B947-2D7975F98887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7488A50-5D22-4C2A-B947-2D7975F98887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7488A50-5D22-4C2A-B947-2D7975F98887}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
