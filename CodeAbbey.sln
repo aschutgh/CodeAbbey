@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN21ArrayCounters", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN23BubbleInArray", "ProblemN23BubbleInArray\ProblemN23BubbleInArray.csproj", "{C7C0FA36-4E42-4367-B9F0-6C14AC87DA8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN24NeumannsRandomGenerator", "ProblemN24NeumannsRandomGenerator\ProblemN24NeumannsRandomGenerator.csproj", "{BA6FA5C0-0BA3-4478-807F-1241C6122FF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{C7C0FA36-4E42-4367-B9F0-6C14AC87DA8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7C0FA36-4E42-4367-B9F0-6C14AC87DA8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7C0FA36-4E42-4367-B9F0-6C14AC87DA8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA6FA5C0-0BA3-4478-807F-1241C6122FF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6FA5C0-0BA3-4478-807F-1241C6122FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6FA5C0-0BA3-4478-807F-1241C6122FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6FA5C0-0BA3-4478-807F-1241C6122FF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
