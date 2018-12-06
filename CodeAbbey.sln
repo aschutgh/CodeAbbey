@@ -39,7 +39,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemN23BubbleInArray", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemN24NeumannsRandomGenerator", "ProblemN24NeumannsRandomGenerator\ProblemN24NeumannsRandomGenerator.csproj", "{BA6FA5C0-0BA3-4478-807F-1241C6122FF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN26GreatestCommonDivisor", "ProblemN26GreatestCommonDivisor\ProblemN26GreatestCommonDivisor.csproj", "{FF91BC61-8546-4FCD-A6E9-D1384FBB774B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemN26GreatestCommonDivisor", "ProblemN26GreatestCommonDivisor\ProblemN26GreatestCommonDivisor.csproj", "{FF91BC61-8546-4FCD-A6E9-D1384FBB774B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemN27BubbleSort", "ProblemN27BubbleSort\ProblemN27BubbleSort.csproj", "{5FFC5067-A8B4-43F4-B639-E5BE48A95E4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{FF91BC61-8546-4FCD-A6E9-D1384FBB774B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF91BC61-8546-4FCD-A6E9-D1384FBB774B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF91BC61-8546-4FCD-A6E9-D1384FBB774B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FFC5067-A8B4-43F4-B639-E5BE48A95E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FFC5067-A8B4-43F4-B639-E5BE48A95E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FFC5067-A8B4-43F4-B639-E5BE48A95E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FFC5067-A8B4-43F4-B639-E5BE48A95E4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
